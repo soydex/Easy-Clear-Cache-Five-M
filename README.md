@@ -21,6 +21,9 @@ VirusTotal: https://www.virustotal.com/gui/file/1599c9cdcddc0ed968976c4e18128676
 
 It is always recommended to have an up-to-date antivirus software installed on your computer for added protection.
 
+# Code 
+[Preview Code](https://postimg.cc/tZ7D7jBN)
+
 
 ###### Support
 soydex’#0890
