@@ -26,4 +26,4 @@ It is always recommended to have an up-to-date antivirus software installed on y
 
 
 ###### Support
-soydex’#0890
+Contact @soydex for support in discord.
